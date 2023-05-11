@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WinstonProgrammer
-- 👀 I’m interested in machine learning and AI.
+- 👀 I’m interested in AI and videogame development.
 - 🌱 I’m currently learning Java, OOP and principles of programming languages.
 - 💞️ I’m looking to collaborate on i'm not sure yet. 😅
 - 📫 How to reach me, still figuring that out.
