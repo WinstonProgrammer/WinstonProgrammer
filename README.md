@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @WinstonProgrammer
-- 👀 I’m interested in AI and videogame development.
-- 🌱 I’m currently learning Java, algorithms and data structures.
-- 💞️ I’m looking to collaborate on i'm not sure yet. 😅
-- 📫 How to reach me, still figuring that out.
+- 👀 I’m interested in frontend development and data science.
+- 🌱 I’m currently learning HTML, CSS and Javascript.
+- 💞️ I’m looking to collaborate on web applications. 😅
+- 📫 How to reach me, no idea yet.
 
 <!---
 WinstonProgrammer/WinstonProgrammer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
